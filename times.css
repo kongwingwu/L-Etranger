@@ -1,0 +1,33 @@
+body {
+    font-family: "Times New Roman", serif;
+}
+
+h1 {
+    font-variant: small-caps;
+    text-align: center;
+}
+
+h2 {
+    font-variant: small-caps;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.p1 {
+    text-indent: 0px;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+.p2 {
+    text-indent: 0px;
+    text-align: justify;
+}
+
+p {
+    text-indent: 25px;
+    text-align: justify;
+}
