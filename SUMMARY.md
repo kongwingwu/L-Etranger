@@ -1,20 +1,23 @@
 # Table of contents
 
-* [L’Étranger](README.md)
-
-## Première Partie
-
-* [Chapitre I](premiere-partie/chapitre-i.md)
-* [Chapitre II](premiere-partie/chapitre-ii.md)
-* [Chapitre III](premiere-partie/chapitre-iii.md)
-* [Chapitre IV](premiere-partie/chapitre-iv.md)
-* [Chapitre V](premiere-partie/chapitre-v.md)
-* [Chapitre VI](premiere-partie/chapitre-vi.md)
-
-## Deuxième Partie
-
-* [Chapitre I](deuxieme-partie/chapitre-i.md)
-* [Chapitre II](deuxieme-partie/chapitre-ii.md)
-* [Chapitre III](deuxieme-partie/chapitre-iii.md)
-* [Chapitre IV](deuxieme-partie/chapitre-iv.md)
-* [Chapitre V](deuxieme-partie/chapitre-v.md)
+* [Cien años de soledad](README.md)
+* [Capítulo I](capitulo-i.md)
+* [Capítulo II](capitulo-ii.md)
+* [Capítulo III](capitulo-iii.md)
+* [Capítulo IV](capitulo-iv.md)
+* [Capítulo V](capitulo-v.md)
+* [Capítulo VI](capitulo-vi.md)
+* [Capítulo VII](capitulo-vii.md)
+* [Capítulo VIII](capitulo-viii.md)
+* [Capítulo IX](capitulo-ix.md)
+* [Capítulo X](capitulo-x.md)
+* [Capítulo XI](capitulo-xi.md)
+* [Capítulo XII](capitulo-xii.md)
+* [Capítulo XIII](capitulo-xiii.md)
+* [Capítulo XIV](capitulo-xiv.md)
+* [Capítulo XV](capitulo-xv.md)
+* [Capítulo XVI](capitulo-xvi.md)
+* [Capítulo XVII](capitulo-xvii.md)
+* [Capítulo XVIII](capitulo-xviii.md)
+* [Capítulo XIX](capitulo-xix.md)
+* [Capítulo XX](capitulo-xx.md)
